@@ -1,6 +1,6 @@
 # pox
 
-S. Morteza Hashemi, Arash Zabihian, Masih Hajsaeedi, View ORCID ProfileMohsen Hooshmand
+_by S. Morteza Hashemi, Arash Zabihian, Masih Hajsaeedi, View ORCID ProfileMohsen Hooshmand
 
 ## Citation
 ```
