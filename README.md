@@ -1,4 +1,4 @@
-# pox
+# Antivirals for Monkeypox Virus: Proposing an Effective Machine/Deep Learning Framework
 
 _by S. Morteza Hashemi, Arash Zabihian, Masih Hajsaeedi, Mohsen Hooshmand_
 
